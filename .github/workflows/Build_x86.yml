@@ -7,9 +7,9 @@
 
 name: Build_x86
 
-on: 
-  release:
-    types: [published]
+on:  [push]
+  #release:
+   # types: [published]
 
   #push:
   #  branches: 
